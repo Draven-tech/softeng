@@ -21,6 +21,7 @@ body {
     box-sizing: border-box;
     text-align: center;
     z-index: 998;
+    overflow-y: auto; 
 }
 
 /* /////////////////////////////header ///////////////////////// */
@@ -243,7 +244,7 @@ form.form1 {
     margin: 20px auto; 
     padding: 25px; 
     display: flex;
-    margin-top: 300px;
+    margin-top: 250px;
     justify-content: center; 
     align-items: center; 
     z-index: 1001;
