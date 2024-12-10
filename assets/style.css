@@ -253,7 +253,7 @@ form.form1 {
 #map {
     height: 100%;
     width: 100%;
-    min-height: 500px;
+    min-height: 650px;
     z-index: 1002;
     border-radius: 20px;
     border-color: 2px white;
